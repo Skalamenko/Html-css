@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 
 <html lang="en">
 <head>
@@ -111,21 +110,5 @@
                   </li>
               </ul>
           </div>
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
     </div>
-
-</body>
-</html>
