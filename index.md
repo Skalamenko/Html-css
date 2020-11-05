@@ -44,8 +44,6 @@
                     <a href="mailto:bulaja.ahmed@gmail.com">bulaja.ahmed@gmail.com</a>
                   </div>
                 </li>
-               
-                </li>
               </ul>
             </div>
             <div class="resume_item resume_social">
