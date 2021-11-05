@@ -69,7 +69,7 @@
             <div class="title">
                <p class="bold">About me</p>
              </div>
-            <p> My name is Ahmed Bulaja, I am 21 years old. I was born in Bugojno and i currently live in Sarajevo.</p>
+            <p> My name is Ahmed Bulaja, I am 22 years old. I was born in Bugojno and i currently live in Sarajevo.</p>
             <p>I graduated from <a href="https://www.medresa.edu.ba/">Medresa in Travnik </a>. Right now, I am studying at IUS at software ingineering.</p> 
                 
          </div>
